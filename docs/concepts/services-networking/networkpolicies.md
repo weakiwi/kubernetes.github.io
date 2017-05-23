@@ -77,7 +77,7 @@ spec:
         matchLabels:
           role: frontend
     ports:
-    - protocol: tcp
+    - protocol: TCP
       port: 6379
 ```
 
